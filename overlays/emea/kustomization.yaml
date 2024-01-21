@@ -11,4 +11,4 @@ images:
     newTag: 1-156
 
 resources:
-- routei-mng.yaml
+- route-mng.yaml
